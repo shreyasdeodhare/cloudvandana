@@ -2,6 +2,7 @@ import java.util.*;
 import java.lang.* ;
 class Solution{
 public static boolean pali(String s){ 
+
      StringBuffer sb=new StringBuffer(s); 
      if(s.equals(sb.reverse().toString())) return true; 
 
