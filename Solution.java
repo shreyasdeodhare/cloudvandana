@@ -12,6 +12,6 @@ public static boolean pali(String s){
 }
   public static void main(String[] args){ 
      String s="Ramar" ;
-    System.out.println("IS a Paliindrome" +pali(s); 
+    System.out.println("IS a Paliindrome" +pali(s)); 
 }
 }
